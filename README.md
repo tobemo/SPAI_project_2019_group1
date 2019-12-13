@@ -66,5 +66,6 @@ Note: this code requieres the eigen library. This library is not included in thi
 
 //Note on the offline noise reduction
 - The Matlab file has comments describing all the different variables
+- The code is based on Randall's framework and his auxillary functions are required to run it
 - We have two different enhanced signals for part 3a, an MWF output which has some musical noise and a cepstral smoothing output which has no noise but the speech is less clear
 - Both signals have high noise for a small duration in the beginning

@@ -63,7 +63,7 @@ Sometimes pressing stop and then start again solves this, sometimes the applicat
 3. Choose the right 'Selected exporter' for the platform of choice, and open it in an IDE by clicking on 'Save and Open in IDE'.
 4. Compile and run in IDE.
 
-//Offline noise reduction
--The Matlab file has comments describing all the different variables
--We have two different enhanced signals for part 3a, an MWF output which has some musical noise and a cepstral smoothing output which has no noise but the speech is less clear
+//Note on the offline noise reduction
+- The Matlab file has comments describing all the different variables
+- We have two different enhanced signals for part 3a, an MWF output which has some musical noise and a cepstral smoothing output which has no noise but the speech is less clear
 - Both signals have high noise for a small duration in the beginning

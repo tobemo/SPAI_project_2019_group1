@@ -56,3 +56,9 @@ Once ready, press 'Start Recording' to record and send audio data.
 IMPORTANT: 
 If a device locks itself to save battery it is possible it is no longer recording and or sending audio.
 Sometimes pressing stop and then start again solves this, sometimes the application needs to be restard.
+
+// HOW TO BUILD
+1. Make a new 'Audio Application' with Projucer (JUCE).
+2. Add source filles to this project via the Projucer.
+3. Choose the right 'Selected exporter' for the platform of choice, and open it in an IDE by clicking on 'Save and Open in IDE'.
+4. Compile and run in IDE.

@@ -1,0 +1,2 @@
+We had a (sort of) working mutli channel filter and a working single channel filter, but not the two combined.
+We demoed both individually.

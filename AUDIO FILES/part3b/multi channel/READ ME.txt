@@ -1,0 +1,4 @@
+The reason we've copied some files and cut of the start is because the device was still recording even though we wnated to restart the test.
+-part3b_sd1_arriving_on_pd:	cut off first 50s
+-part3b_sd1_arriving_on_pd:	cut off first 45s
+-part3b_pd_enh:			cut off first 30s

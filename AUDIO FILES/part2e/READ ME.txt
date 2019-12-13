@@ -1,0 +1,9 @@
+The reason we've copied some files and cut of the start is because the device was still recording even though we wnated to restart the test.
+e.g. in file 'part2e_pd1' @ around 0:50 you can hear that the recording starts again.
+
+-part2e_pd1:	cut off first 50s
+-part2e_pd2:	cut off first 50s
+-part2e_pdmix:	cut off first 50s
+
+The file 'part2e_pdmix_cut.wav' clips.
+We've added a copy which is normalized called 'part2e_pdmix_cut_and_normalized.wav'.

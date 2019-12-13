@@ -64,4 +64,6 @@ Sometimes pressing stop and then start again solves this, sometimes the applicat
 4. Compile and run in IDE.
 
 //Offline noise reduction
--The Matlab code also includes code for cepstral smoothing which you might like to test
+-The Matlab file has comments describing all the different variables
+-We have two different enhanced signals for part 3a, an MWF output which has some musical noise and a cepstral smoothing output which has no noise but the speech is less clear
+- Both signals have high noise for a small duration in the beginning

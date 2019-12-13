@@ -62,3 +62,6 @@ Sometimes pressing stop and then start again solves this, sometimes the applicat
 2. Add source filles to this project via the Projucer.
 3. Choose the right 'Selected exporter' for the platform of choice, and open it in an IDE by clicking on 'Save and Open in IDE'.
 4. Compile and run in IDE.
+
+//Offline noise reduction
+-The Matlab code also includes code for cepstral smoothing which you might like to test
